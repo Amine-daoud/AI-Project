@@ -10,7 +10,7 @@ Avant de commencer, assurez-vous de disposer des éléments suivants :
 
 -Cloner le git de Mask R-CNN
 -Vous avez le fichier mask_rcnn_coco.h5 a la racine du répéertoire Mask R-CNN
-- Python 3.x installé sur votre machine.
+- Python 3.7 installé sur votre machine.
 - Les dépendances nécessaires installées. Vous pouvez installer les bibliothèques requises avec :
 
   ```bash
