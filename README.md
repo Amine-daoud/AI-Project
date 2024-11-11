@@ -58,10 +58,3 @@ Les hyperparamètres choisis pour ce projet sont les suivants :
 -Mode de redimensionnement des images : square
 -Dimensions minimales et maximales des images : 512 x 512
 
-# Pistes d'Amélioration
-Augmentation des données : L'ajout de techniques d'augmentation des données pourrait diversifier l'ensemble d'entraînement et améliorer la robustesse du modèle.
-Ajustement des hyperparamètres : Tester des valeurs différentes de LEARNING_RATE, changer le BACKBONE ou utiliser des optimizers différents comme Adam ou SGD.
-
-# Conclusion
-
-Ce projet démontre la mise en œuvre de Mask R-CNN pour la détection et la segmentation d'instances d'images de montres. La préparation minutieuse des données et l'ajustement des hyperparamètres sont essentiels pour obtenir des résultats précis. Le code est conçu pour être facilement adaptable à d'autres projets de détection d'objets.
