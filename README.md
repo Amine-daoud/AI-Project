@@ -54,7 +54,7 @@ Les hyperparamètres choisis pour ce model sont les suivants :
 -STEPS_PER_EPOCH = 100
 
 
-## Models 1 :
+## Models 2 :
 ### Hyperparamètres Utilisés
 
 Les hyperparamètres choisis pour ce model sont les suivants :
