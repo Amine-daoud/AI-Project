@@ -1,5 +1,5 @@
 # Pour consulter les logs et captures, dirigez vous vers : log/Steps100 pour les logs des 100 steps et log/Steps25 pour les logs de 25 steps. 
-# la detection d'image se trouve dans le répertoire images et les graphs et racines se trouve dans la racine du projet.
+# la detection d'image se trouve dans le répertoire images et les graphs et matrices se trouve dans la racine du projet.
 # AI-Project
 
 # Entraînement et Test du modèle Mask R-CNN pour la détection de montres
